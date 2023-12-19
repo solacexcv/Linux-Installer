@@ -18,4 +18,4 @@ Simple installations of several Linux distribution that can be installed on ***T
 
 Copy the commands below and paste the Termux App terminal
 
-* ```git clone https://github.com/pembriahmad/Get-Linux && cd Get-Linux && chmod +x install-get-linux.sh && bash install-get-linux.sh```
+* ```git clone https://github.com/solacexcv/Linux-Installer && cd Linux-Installer && chmod +x Installer.sh $$ bash Installer.sh```

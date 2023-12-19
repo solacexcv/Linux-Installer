@@ -14,7 +14,7 @@ Simple installations of several Linux distribution that can be installed on ***T
 * CentOS
 * BackBox
 
-# How To Installation
+# How To Install
 
 Copy the commands below and paste the Termux App terminal
 

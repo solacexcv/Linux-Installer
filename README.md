@@ -2,17 +2,17 @@
 
 Simple installations of several Linux distribution that can be installed on ***Termux App***, Linux options that you can install are as follows :
 
-• Ubuntu
-• Debian
-• Kali-Linux
-• Kali-Nethunter
-• Arch-Linux
-• Paroot-OS
-• Black-Arch
-• Fedora
-• Alpine
-• CentOS
-• BackBox
+* Ubuntu
+* Debian
+* Kali-Linux
+* Kali-Nethunter
+* Arch-Linux
+* Paroot-OS
+* Black-Arch
+* Fedora
+* Alpine
+* CentOS
+* BackBox
 
 # How To Installation
 

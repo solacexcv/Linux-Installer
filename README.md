@@ -1,6 +1,7 @@
 # Linux-Installer
 
 Simple installations of several Linux distribution that can be installed on ***Termux App***, Linux options that you can install are as follows :
+
 • Ubuntu
 • Debian
 • Kali-Linux

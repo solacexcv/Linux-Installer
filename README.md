@@ -18,6 +18,6 @@ Simple installations of several Linux distribution that can be installed on ***T
 
 Copy the commands below and paste the Termux App terminal
 
-* ```git clone https://github.com/solacexcv/Linux-Installer && cd Linux-Installer && chmod +x Installer.sh $$ bash Installer.sh```
+* ```git clone https://github.com/solacexcv/Linux-Installer && cd Linux-Installer && chmod +x Installer.sh && bash Installer.sh```
 # Screenshot
 ![](https://raw.githubusercontent.com/solacexcv/Linux-Installer/main/Screenshot_20231220-055604.png)
